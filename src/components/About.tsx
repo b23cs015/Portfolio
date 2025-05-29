@@ -81,7 +81,7 @@ const About: React.FC = () => {
               <p className="text-gray-600 dark:text-gray-400">Completed</p>
             </div>
             <div className="p-4 bg-white dark:bg-gray-800 rounded-lg shadow-md">
-              <h4 className="font-bold text-blue-500 text-lg mb-2">3+</h4>
+              <h4 className="font-bold text-blue-500 text-lg mb-2">2+</h4>
               <p className="text-gray-600 dark:text-gray-400">Certifications</p>
             </div>
             <div className="p-4 bg-white dark:bg-gray-800 rounded-lg shadow-md">
