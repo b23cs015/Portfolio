@@ -77,10 +77,6 @@ const Education: React.FC = () => {
     {
       title: 'Smart India Hackathon',
       organization: 'Government of India'
-    },
-    {
-      title: 'Java Programming',
-      organization: 'Swayam NPTEL'
     }
   ];
 
